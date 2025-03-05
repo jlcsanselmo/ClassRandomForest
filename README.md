@@ -13,4 +13,6 @@ Este projeto realiza **Classificação Supervisionada de Imagens SENTINEL Raster
 
 
 
+Exemplo de aplicação da classificação:
+
 ![output](https://github.com/user-attachments/assets/14a1d441-e733-47c1-8a4e-106b959324b6)
