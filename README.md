@@ -11,3 +11,6 @@ Este projeto realiza **Classificação Supervisionada de Imagens SENTINEL Raster
 6. **Salvar o resultado como um novo raster classificado**.
 7. **Avaliar a precisão da classificação** com métricas como acurácia e matriz de confusão.
 
+
+
+![output](https://github.com/user-attachments/assets/14a1d441-e733-47c1-8a4e-106b959324b6)
